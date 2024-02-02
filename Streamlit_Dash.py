@@ -1,3 +1,4 @@
+#https://tarun-bi.streamlit.app/
 import streamlit as st
 import plotly.express as px
 import pandas as pd
@@ -8,7 +9,7 @@ from statsmodels.tsa.statespace.sarimax import SARIMAX
 import os
 import warnings
 warnings.filterwarnings('ignore')
-#cd /Users/priyamadhurigattem/Downloads/weather-data-analysis-dash-main
+#cd /Users/tarunkumar/Downloads/weather-data-analysis-dash-main
 #streamlit run Streamlit_Dash.py
 #Setting the title and page icon
 st.set_page_config(page_title="WEATHER", page_icon=":sun_behind_rain_cloud:", layout="wide")
