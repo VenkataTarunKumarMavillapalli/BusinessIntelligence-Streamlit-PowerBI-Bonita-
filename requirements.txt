@@ -4,4 +4,4 @@ pandas
 numpy
 scipy
 openpyxl
-SARIMAX
+statsmodels
