@@ -5,4 +5,4 @@ numpy
 scipy
 openpyxl
 SARIMAX
-statsmodels
+statsmodels.tsa.statespace.sarimax
